@@ -1,0 +1,5 @@
+@openzeppelin/=lib/openzeppelin-contracts/
+@chainlink/contracts/=lib/chainlink-brownie-contracts/contracts/
+@chainlink/local/=lib/chainlink-local/
+foundry-devops/=lib/foundry-devops/
+forge-std/=lib/forge-std/src
